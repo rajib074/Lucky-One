@@ -1,68 +1,79 @@
 [
   {
     "id": "1",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image11?ik-sdk-version=javascript-1.4.3&updatedAt=1648388739894",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image11?ik-sdk-version=javascript-1.4.3&updatedAt=1648388739894",
     "name": "Salinas Gould",
-    "price": 3755
+    "price": 3755,
+    "quantity": 0
   },
   {
     "id": "2",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image10?ik-sdk-version=javascript-1.4.3&updatedAt=1648388728181",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image10?ik-sdk-version=javascript-1.4.3&updatedAt=1648388728181",
     "name": "Raymond Shields",
-    "price": 8625
+    "price": 8625,
+    "quantity": 0
   },
   {
     "id": "3",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image9?ik-sdk-version=javascript-1.4.3&updatedAt=1648388715802",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image9?ik-sdk-version=javascript-1.4.3&updatedAt=1648388715802",
     "name": "Meadows Landry",
-    "price": 4813
+    "price": 4813,
+    "quantity": 0
   },
   {
     "id": "4",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image8?ik-sdk-version=javascript-1.4.3&updatedAt=1648388700436",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image8?ik-sdk-version=javascript-1.4.3&updatedAt=1648388700436",
     "name": "Shawn Camacho",
-    "price": 8297
+    "price": 8297,
+    "quantity": 0
   },
   {
     "id": "5",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image7?ik-sdk-version=javascript-1.4.3&updatedAt=1648388686274",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image7?ik-sdk-version=javascript-1.4.3&updatedAt=1648388686274",
     "name": "Hardin Levine",
-    "price": 2387
+    "price": 2387,
+    "quantity": 0
   },
   {
     "id": "6",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image6?ik-sdk-version=javascript-1.4.3&updatedAt=1648388671699",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image6?ik-sdk-version=javascript-1.4.3&updatedAt=1648388671699",
     "name": "Staci Bowers",
-    "price": 7830
+    "price": 7830,
+    "quantity": 0
   },
   {
     "id": "7",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image5?ik-sdk-version=javascript-1.4.3&updatedAt=1648388644768",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image5?ik-sdk-version=javascript-1.4.3&updatedAt=1648388644768",
     "name": "Myra Lane",
-    "price": 3651
+    "price": 3651,
+    "quantity": 0
   },
   {
     "id": "8",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image4?ik-sdk-version=javascript-1.4.3&updatedAt=1648388632235",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image4?ik-sdk-version=javascript-1.4.3&updatedAt=1648388632235",
     "name": "Kerr Yang",
-    "price": 7509
+    "price": 7509,
+    "quantity": 0
   },
   {
     "id": "9",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image3?ik-sdk-version=javascript-1.4.3&updatedAt=1648388615933",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image3?ik-sdk-version=javascript-1.4.3&updatedAt=1648388615933",
     "name": "Huber Mcleod",
-    "price": 2462
+    "price": 2462,
+    "quantity": 0
   },
   {
     "id": "10",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image2?ik-sdk-version=javascript-1.4.3&updatedAt=1648388602831",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image2?ik-sdk-version=javascript-1.4.3&updatedAt=1648388602831",
     "name": "Doreen Larsen",
-    "price": 5788
+    "price": 5788,
+    "quantity": 0
   },
   {
     "id": "11",
-    "picture": "https://ik.imagekit.io/rajib/assignment8/image?ik-sdk-version=javascript-1.4.3&updatedAt=1648388587422",
+    "img": "https://ik.imagekit.io/rajib/assignment8/image?ik-sdk-version=javascript-1.4.3&updatedAt=1648388587422",
     "name": "Jannie Townsend",
-    "price": 6682
+    "price": 6682,
+    "quantity": 0
   }
 ]
