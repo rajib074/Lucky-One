@@ -1,12 +1,15 @@
+import React from 'react';
+import './App.css';
+import Content from './components/Content/Content';
 import Header from './components/Header/Header';
-import Photos from './components/photos/Photos';
+import Shop from './components/Shop/Shop';
 
 function App() {
   return (
     <div className="App">
-      <Header></Header>
-      <Photos></Photos>
-     
+      <Header />
+      <Shop />
+      <Content />
     </div>
   );
 }

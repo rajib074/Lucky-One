@@ -1,18 +1,23 @@
 import React from 'react';
+import { Button } from 'react-bootstrap';
+import CartItem from './CartItem/CartItem';
+import './Cart.css';
 
-const Cart = ({cart}) => {
-    console.log(cart)
-   
-
-
+const Cart = ({cart, removeFormCart, emptyCart, randomItem}) => {
     return (
-        <div>
-          <h1>Selected Photos</h1>
+        <div className="card-sidebar">
+            <h3>Photo</h3>
 
-
-          <button><h3>CHOOSE 1 FOR ME</h3></button><br/>
-          <button><h3> CHOOSE AGAIN</h3></button>
+            <ul>
+                {
+                    cart.map(item => <CartItem item={item} key={item.id} removeFormCart={removeFormCart} />)
+                }
+            </ul>
             
+            <div className="button-group">
+                <Button variant="success" onClick={ () => randomItem(cart)}>Select One</Button>
+                <Button variant="danger" onClick={() => emptyCart()}>Empty Cart</Button>
+            </div>
         </div>
     );
 };
