@@ -7,7 +7,7 @@ const Cart = ({cart}) => {
 
     return (
         <div>
-          <h1>Selected Clethes</h1>
+          <h1>Selected Photos</h1>
 
 
           <button><h3>CHOOSE 1 FOR ME</h3></button><br/>
